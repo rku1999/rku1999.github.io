@@ -5,7 +5,6 @@ author: Ray
 date: 2020-05-22
 categories: blog
 ---
-**Hello world!**
 
 This will officially mark the nth time I've written the phrase "Hello World". But somehow, it never gets boring.
 
