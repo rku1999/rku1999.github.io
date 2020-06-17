@@ -5,7 +5,7 @@ date:
 categories: blog
 ---
 docker
-ranger
+rancher
 javascript
 advanced git
 
