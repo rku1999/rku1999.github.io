@@ -1,4 +1,4 @@
----
+i---
 layout: post
 title: New Things
 date:
@@ -11,3 +11,5 @@ node.js
 yarn vs npm
 advanced git
 ansible
+minIO
+redis cluster
