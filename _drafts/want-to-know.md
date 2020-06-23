@@ -5,7 +5,7 @@ date:
 categories: blog
 ---
 docker
-rancher
+rancher/jenkin
 javascript
 node.js
 yarn vs npm
