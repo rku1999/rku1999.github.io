@@ -18,3 +18,5 @@ kafka + zookeeper
 elk cluster (specifically elastic search and logstash)
 graphql (frontend's backend)
 nginx
+postman
+pm2
