@@ -10,7 +10,7 @@ javascript
 node.js
 yarn vs npm
 advanced git
-ansible
+jenkins -> ansible
 minIO
 redis cluster
 tensorflow
@@ -20,3 +20,4 @@ graphql (frontend's backend)
 nginx
 postman
 pm2
+zsh
