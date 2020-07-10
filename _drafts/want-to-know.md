@@ -2,7 +2,7 @@
 layout: post
 title: New Things
 date:
-categories: blog
+categories: code
 ---
 docker
 rancher/jenkin

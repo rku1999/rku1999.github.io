@@ -2,7 +2,7 @@
 layout: post
 title: Kookaburras secretly cruel?
 date: 
-categories: blog
+categories: misc
 ---
 
 After I created this blog, I went on to read more about the kookaburra birds and I discovered that their "laughing" call was actually used to establish territory among family groups.

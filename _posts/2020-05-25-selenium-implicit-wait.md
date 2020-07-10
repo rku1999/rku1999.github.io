@@ -3,7 +3,7 @@ layout: post
 title: "Python Selenium Implicit Wait"
 author: Ray
 date: 2020-05-25
-categories: blog
+categories: code
 ---
 
 I am learning Python's unittest module in combination with Selenium to write an autotesting framework for a webpage at my internship. During the past few days, I wrote more than a dozen tests. Though it was solid progress, the sluggish runtime has driven me mad. After spending hours writing and rewriting my code to see what kind of god forbidden bug is butchering my runtime, my efforts was to no avail. So, I've decided to turn to the Selenium documentation.

@@ -2,7 +2,7 @@
 layout: post
 title: The Chinese-Australian Plumbers
 date:
-categories: blog
+categories: life
 ---
 
 This post has been sitting in my drafts folder for some time now, to be more precise, since the summer of 2020. The idea for this post originated from one of my college essay drafts. And even though I ended up choosing some other topic to submit, there was always a part of me that really wanted to finish this piece.

@@ -3,7 +3,7 @@ layout: post
 title: "Hello World!"
 author: Ray
 date: 2020-05-22
-categories: blog
+categories: misc
 ---
 
 This will officially mark the nth time I've written the phrase "Hello World".
