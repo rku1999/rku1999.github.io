@@ -13,10 +13,10 @@ advanced git
 jenkins -> ansible
 minIO
 redis cluster
-tensorflow
+tensorflow v.s. pytorch
 kafka + zookeeper
 elk cluster (specifically elastic search and logstash)
-graphql (frontend's backend)
+graphql
 nginx
 postman
 pm2
