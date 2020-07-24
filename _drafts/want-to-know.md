@@ -22,3 +22,4 @@ postman
 pm2
 zsh
 robo 3t
+cms/strapi
