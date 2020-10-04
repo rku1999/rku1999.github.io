@@ -4,6 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
+## PhotoOp
+PhotoOp is a C++ JPEG image decoder that can extract information such as dates, image dimensions, GPS information, and more. It is able to process through a large amount of images within a short period of time due to its multithreaded approach. I applied it to my family's photo album and thougth that I could then use this to build a web app that would allow my family and I to query for our images without having to go through the entire photo directory every time.
+- Setup a Postgres database server on a local desktop at home to store the relevant photo information and hosted an API server with JavaScript and Express so that I can query for those images.
+- Created a website with React and Node.js framework.
+- TODO: Build a facial recognition model with GCP's AutoML or OpenCV and integrate it with my website which will provide a useful feature that allows querying the images based on faces.
+
 ## ZeroHero
 
 ZeroHero is a fully functional cross-platform mobile app that will take a picture of your leftover ingredients and suggest healthy, delicious, and invigorating recipes from top chefs all over the world.
