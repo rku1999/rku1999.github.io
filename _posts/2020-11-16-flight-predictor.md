@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Flight Predictor
-date: 
+date: 2020-11-16 
 categories: thoughts
 ---
 
-During one of my machine learning lecutures a couple of days ago, we were talking about decision trees. My professor was trying to explain the concept of entropy and information gain by illustrating an example of predicting whether flights will be canceled based on certain features (wind, temperature, ...etc.).
+During one of my machine learning lecutures a few weeks ago, we were talking about decision trees. My professor was trying to explain the concept of entropy and information gain by illustrating an example of predicting whether flights will be canceled based on certain features (wind, temperature, ...etc.).
 
 And that got me thinking. This seems like a great idea! Are there any companies that provide this service of predicting how likely a flight is going to be canceled based on certain factors and past events? Because this seems pretty useful. If you can tell me that there is a 70% chance my flight is going to be canceled based on some circumstances, I'm most likely not going to purchase a ticket for that particular flight anymore.
 
