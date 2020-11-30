@@ -9,7 +9,6 @@ rancher/jenkin
 javascript
 node.js
 yarn vs npm
-advanced git
 jenkins -> ansible
 minIO
 redis cluster
