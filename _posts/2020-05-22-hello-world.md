@@ -8,7 +8,7 @@ categories: misc
 
 This will officially mark the nth time I've written the phrase "Hello World".
 
-But somehow, it never gets boring.
+But somehow, it never gets old.
 
 I've never really blogged before in my life. But I guess there's a first time for everything. I created this blog thanks to the inspiration from my brother, who also started blogging a few months ago.
 
