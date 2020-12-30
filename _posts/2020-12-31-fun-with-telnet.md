@@ -11,7 +11,7 @@ So, if you're a Star Wars fan like me, the next time you find yourself rewatchin
 If you simply type `telnet towel.blinkenlights.nl` at your terminal, you should be able to watch the full ascii version of 
 Star Wars: Episode IV - A New Hope. Pretty neat eh?
 
-![telnet Star Wars] (../_assets/telnet_starwars.JPG)
+![telnet Star Wars](/imgs/telnet_starwars.JPG)
 
 
 p.s. This is a pretty old telnet gag. I learned this from my web systems professor (honestly hands down one of the best
