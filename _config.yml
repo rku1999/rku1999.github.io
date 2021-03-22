@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: The Kukaburra
 author: Raymond Ku
-email: rku1999@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Aspiring software engineer and a
   more-than-amateur trumpet player.
