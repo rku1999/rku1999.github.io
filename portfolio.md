@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: pdf
 title: Portfolio
 permalink: /portfolio/
 ---
-<iframe src="http://www-personal.umich.edu/~rayku/portfolio/" width="100%" height="500px" style="border:none;"></iframe>
+<iframe src="portfolio/index.html" width="100%" height="500px" style="border:none;"></iframe>
